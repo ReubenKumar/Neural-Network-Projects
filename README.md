@@ -1,4 +1,5 @@
 Neural Network Projects
+
 This repository contains neural network projects that I’ve completed or am currently developing.
 All Python scripts include the full implementation, and datasets are stored in the Data folder.
 
